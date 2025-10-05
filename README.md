@@ -1,6 +1,9 @@
 <h1 align="center">Hi! I'm **C** 👋</h1>
 <h3 align="center">A passionate student driving towards **Web Development Mastery**</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="700"/>
+</p>
 ---
 
 ## **My Development Focus** 🎯
