@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student driving towards **Web Development Mastery**</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="700"/>
+  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"; height="500px"/>
 </p>
 ---
 
