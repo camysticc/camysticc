@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"; height="500px"/>
 </p>
+
 ---
 
 ## **My Development Focus** 🎯
@@ -19,7 +20,7 @@
 
 ## **Connect & Collaborate** 🤝
 
-Let's discuss design, code, or just chat about new ideas!
+Let's discuss design, code, or just chat about new ideas! I'm open to anything!
 
 ---
 
