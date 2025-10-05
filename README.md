@@ -1,10 +1,10 @@
-<h1 align="center">Hi! I'm **C** 👋</h1>
-<h3 align="center">A passionate student driving towards **Web Development Mastery**</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"; height="500px"/>
+  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Hello%20there!.gif" alt="Animated greeting banner that says 'Hello there! I'm C'" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"/>
+</p>
 ---
 
 ## **My Development Focus** 🎯
@@ -20,7 +20,7 @@
 
 ## **Connect & Collaborate** 🤝
 
-Let's discuss design, code, or just chat about new ideas! I'm open to anything!
+Let's discuss design, code, or just chat about new ideas!
 
 ---
 
@@ -37,5 +37,3 @@ Here are the technologies I currently use to build and design:
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-</p>
