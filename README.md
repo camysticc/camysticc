@@ -1,26 +1,28 @@
-<h1 align="center">Hello there! 👋 I'm **C**</h1>
-<h3 align="center">A passionate student focused on **Web Development**</h3>
+<h1 align="center">Hi! I'm **C** 👋</h1>
+<h3 align="center">A passionate student driving towards **Web Development Mastery**</h3>
 
 ---
 
-## **Key Features & Current Focus** 🚀
+## **My Development Focus** 🎯
 
-* 🔭 **Current Project:** Building **my own website** from the ground up.
-* 🌱 **Skill Development:** Actively learning **HTML** and **CSS** to expand my foundational web design capabilities.
-* 💬 **Ask Me About:** I'm happy to discuss **Figma** for design and prototyping.
-* ⚡ **Fun Fact:** I have the confident mindset that I **rule the world**!
-
----
-
-## **Let's Connect** 🔗
-
-* **Reach out** to me with questions about **Figma** or my current projects.
+| **Feature** | **Detail** |
+| :--- | :--- |
+| 🔭 **Working On** | Building **my own personal website** from scratch. |
+| 🌱 **Learning** | Actively mastering the fundamentals: **HTML** and **CSS**. |
+| 💬 **Expertise** | Ask me anything about **Figma**—I handle the design side! |
+| ⚡ **Mindset** | Fun fact: I operate with the confidence that I **rule the world**. |
 
 ---
 
-## **Languages and Tools** 🛠️
+## **Connect & Collaborate** 🤝
 
-A snapshot of the technologies I'm working with:
+Let's discuss design, code, or just chat about new ideas!
+
+---
+
+## **Languages and Tools in My Stack** ⚙️
+
+Here are the technologies I currently use to build and design:
 
 <p align="left">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
