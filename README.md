@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HTML+and+CSS+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=HTML+and+CSS+student" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"/>
