@@ -33,5 +33,3 @@ Here are the technologies I currently use to build and design:
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&float=centre&width=435&lines=HTML+and+CSS+student" alt="Typing SVG" /></a>
