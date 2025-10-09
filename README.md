@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Hello%20there!.gif" alt="Animated greeting banner that says 'Hello there! I'm C'" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/camysticc/camysticc/main/assets/Untitled%20design%20(22).png" alt="Student learning HTML and CSS for frontend web development" width="100%"/>
 </p>
 ---
