@@ -37,6 +37,9 @@ Here are the technologies I currently use to build and design:
         <a href="https://discord.com/developers/docs/reference" target="_blank" rel="noreferrer">
         <img src="https://m.media-amazon.com/images/I/51lpm9SpsJL.png" alt="n8n" width="40" height="40"/>
     </a>
+          <a href="https://www.framer.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn-1.webcatalog.io/catalog/framer-community/framer-community-icon.png?v=1714780323200" alt="n8n" width="40" height="40"/>
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
