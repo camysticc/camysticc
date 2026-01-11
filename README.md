@@ -72,14 +72,8 @@ I'm always open to chat about:
 - Crazy website ideas  
 
 <p align="center">
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID_HERE">
+  <a href="https://discordapp.com/users/szmcaster">
     <img src="https://img.shields.io/badge/Discord-@yourusername-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-%40yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
 
 Drop me a message — let's build something cool! 🚀
 
