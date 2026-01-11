@@ -73,7 +73,7 @@ I'm always open to chat about:
 
 <p align="center">
   <a href="https://discordapp.com/users/1187751127039615086">
-    <img src="https://img.shields.io/badge/Discord-@yourusername-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-szmcaster-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 
 Drop me a message — let's build something cool! 🚀
 
